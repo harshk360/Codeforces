@@ -1,4 +1,9 @@
-
+//============================================================================
+// Name        : Codeforces 236A.cpp
+// Author      : Harshit Kumar
+// Version     : 1.0
+// Description : xx ms, xx kb
+//============================================================================
 #include <stdio.h>
 #include <iostream>
 #include <cstring>
