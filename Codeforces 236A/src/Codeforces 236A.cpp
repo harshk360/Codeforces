@@ -2,7 +2,7 @@
 // Name        : Codeforces 236A.cpp
 // Author      : Harshit Kumar
 // Version     : 1.0
-// Description : xx ms, xx kb
+// Description : 30 ms, 00 kb
 //============================================================================
 #include <stdio.h>
 #include <iostream>
