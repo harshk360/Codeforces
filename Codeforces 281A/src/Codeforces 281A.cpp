@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Codeforces 148A.cpp
+// Name        : Codeforces 281A.cpp
 // Author      : Harshit Kumar
 // Version     : 1.0
 // Description : 30 ms, 00 kb
